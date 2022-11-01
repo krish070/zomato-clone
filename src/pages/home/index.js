@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, {useState } from "react";
 import Footer from "../../components/common/footer";
 import Header from "../../components/common/header";
 import TabOption from "../../components/common/tabOption";
